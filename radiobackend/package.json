@@ -1,0 +1,17 @@
+{
+  "name": "radiobackend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend for Radio App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
